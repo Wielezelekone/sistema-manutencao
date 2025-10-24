@@ -1,0 +1,156 @@
+{
+    "AAA1234": {
+        "marca": "Aa",
+        "modelo": "Aa",
+        "ano": 2000,
+        "tipo": "carro",
+        "quilometragem": 55000,
+        "manutencoes": [
+            {
+                "data": "25/06/2025",
+                "tipo": 1,
+                "descricao": "preventiva",
+                "custo": 450.0,
+                "km": 10000
+            },
+            {
+                "data": "25/06/2025",
+                "tipo": 1,
+                "descricao": "preventiva",
+                "custo": 591.0,
+                "km": 55000
+            }
+        ],
+        "ultima_troca_oleo": 55000,
+        "ultima_troca_pneu": 0,
+        "intervalo_oleo": 10000,
+        "intervalo_pneu": 40000,
+        "historico_km": [
+            [
+                "25/06/2025",
+                0
+            ],
+            [
+                "25/06/2025",
+                10000
+            ],
+            [
+                "25/06/2025",
+                54000
+            ],
+            [
+                "25/06/2025",
+                55000
+            ]
+        ]
+    },
+    "AAA1233": {
+        "marca": "Aa",
+        "modelo": "Aa",
+        "ano": 2016,
+        "tipo": "carro",
+        "quilometragem": 60000,
+        "manutencoes": [
+            {
+                "data": "25/06/2025",
+                "tipo": 1,
+                "descricao": "preventiva",
+                "custo": 450.0,
+                "km": 10000
+            },
+            {
+                "data": "25/06/2025",
+                "tipo": 1,
+                "descricao": "preventiva",
+                "custo": 500.0,
+                "km": 60000
+            }
+        ],
+        "ultima_troca_oleo": 60000,
+        "ultima_troca_pneu": 0,
+        "intervalo_oleo": 10000,
+        "intervalo_pneu": 40000,
+        "historico_km": [
+            [
+                "25/06/2025",
+                0
+            ],
+            [
+                "25/06/2025",
+                10000
+            ],
+            [
+                "25/06/2025",
+                51000
+            ],
+            [
+                "25/06/2025",
+                60000
+            ]
+        ]
+    },
+    "GTI4A15": {
+        "marca": "Fiat",
+        "modelo": "Stilo 1.8",
+        "ano": 2010,
+        "tipo": "carro",
+        "quilometragem": 465000,
+        "manutencoes": [
+            {
+                "data": "28/06/2025",
+                "tipo": 1,
+                "descricao": "Preventiva de troca de filtros",
+                "custo": 1400.0,
+                "km": 207000
+            }
+        ],
+        "ultima_troca_oleo": 207000,
+        "ultima_troca_pneu": 205000,
+        "intervalo_oleo": 10000,
+        "intervalo_pneu": 60000,
+        "historico_km": [
+            [
+                "28/06/2025",
+                205000
+            ],
+            [
+                "28/06/2025",
+                207000
+            ],
+            [
+                "28/06/2025",
+                465000
+            ]
+        ]
+    },
+    "ABC1515": {
+        "marca": "Volvo",
+        "modelo": "Carro",
+        "ano": 2020,
+        "tipo": "carro",
+        "quilometragem": 461000,
+        "manutencoes": [
+            {
+                "data": "28/08/2025",
+                "tipo": 3,
+                "descricao": "Ar condicionado",
+                "custo": 30000.0,
+                "km": 461000
+            }
+        ],
+        "ultima_troca_oleo": 450000,
+        "ultima_troca_pneu": 450000,
+        "intervalo_oleo": 10000,
+        "intervalo_pneu": 60000,
+        "historico_km": [
+            [
+                "28/08/2025",
+                450000
+            ],
+            [
+                "28/08/2025",
+                461000
+            ]
+        ]
+    }
+}
