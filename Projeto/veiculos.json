@@ -4,7 +4,7 @@
         "modelo": "Aa",
         "ano": 2000,
         "tipo": "carro",
-        "quilometragem": 55000,
+        "quilometragem": 56000,
         "manutencoes": [
             {
                 "data": "25/06/2025",
@@ -19,6 +19,13 @@
                 "descricao": "preventiva",
                 "custo": 591.0,
                 "km": 55000
+            },
+            {
+                "data": "24/10/2025",
+                "tipo": 3,
+                "descricao": "FUNILARIA PINTURA TOTAL",
+                "custo": 5000.0,
+                "km": 56000
             }
         ],
         "ultima_troca_oleo": 55000,
@@ -41,6 +48,10 @@
             [
                 "25/06/2025",
                 55000
+            ],
+            [
+                "24/10/2025",
+                56000
             ]
         ]
     },
@@ -150,6 +161,36 @@
             [
                 "28/08/2025",
                 461000
+            ]
+        ]
+    },
+    "ABC5555": {
+        "marca": "Ford",
+        "modelo": "Argus",
+        "ano": 2025,
+        "tipo": "carro",
+        "quilometragem": 5000,
+        "manutencoes": [
+            {
+                "data": "24/10/2025",
+                "tipo": 3,
+                "descricao": "ar condicionado",
+                "custo": 1266.0,
+                "km": 5000
+            }
+        ],
+        "ultima_troca_oleo": 0,
+        "ultima_troca_pneu": 0,
+        "intervalo_oleo": 10000,
+        "intervalo_pneu": 60000,
+        "historico_km": [
+            [
+                "24/10/2025",
+                0
+            ],
+            [
+                "24/10/2025",
+                5000
             ]
         ]
     }
